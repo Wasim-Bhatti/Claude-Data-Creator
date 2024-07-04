@@ -1,0 +1,31 @@
+Question,Accepted_Answer,Tags,Difficulty_Level,Upvotes
+How to reverse a string in Python?,You can use slicing: reversed_string = my_string[::-1],"python,string",Easy,150
+What is the difference between a list and a tuple in Python?,"Lists are mutable, whereas tuples are immutable.","python,list,tuple",Easy,120
+How to merge two dictionaries in Python?,Use the update() method: dict1.update(dict2),"python,dictionary",Medium,180
+How to create a virtual environment in Python?,Use the command: python -m venv myenv,"python,virtualenv",Medium,100
+How to read a CSV file using pandas in Python?,Use the read_csv() function: df = pd.read_csv('file.csv'),"python,pandas,csv",Easy,200
+How to handle missing values in a pandas DataFrame?,Use the fillna() or dropna() methods.,"python,pandas",Medium,170
+What is a lambda function in Python?,A lambda function is a small anonymous function defined using the lambda keyword.,"python,lambda",Easy,140
+How to write unit tests in Python?,Use the unittest module: import unittest,"python,unittest",Medium,130
+How to connect to a MySQL database using Python?,Use the mysql-connector-python library.,"python,mysql,database",Hard,160
+How to implement a binary search algorithm in Python?,Use a while loop to divide the search interval in half.,"python,algorithm",Hard,190
+How to perform web scraping using BeautifulSoup in Python?,Use BeautifulSoup to parse HTML and extract data.,"python,webscraping,beautifulsoup",Medium,210
+What is the GIL in Python?,"GIL stands for Global Interpreter Lock, which prevents multiple native threads from executing Python bytecodes simultaneously.","python,GIL",Hard,180
+How to use decorators in Python?,Decorators are used to modify the behavior of a function or method.,"python,decorator",Medium,160
+How to generate random numbers in Python?,Use the random module: import random,"python,random",Easy,110
+How to handle exceptions in Python?,Use try and except blocks.,"python,exception",Easy,150
+How to perform data visualization using Matplotlib in Python?,Use the pyplot module: import matplotlib.pyplot as plt,"python,matplotlib,visualization",Medium,170
+How to use list comprehensions in Python?,List comprehensions provide a concise way to create lists.,"python,list comprehension",Easy,140
+How to create a REST API using Flask in Python?,Use Flask to create endpoints and handle HTTP requests.,"python,flask,API",Hard,200
+How to implement a stack using a list in Python?,Use the append() and pop() methods.,"python,stack",Easy,130
+How to sort a list of dictionaries by a key in Python?,Use the sorted() function with a lambda function.,"python,sort",Medium,190
+How to work with JSON data in Python?,Use the json module: import json,"python,json",Easy,180
+How to implement a queue using collections.deque in Python?,Use collections.deque for fast appends and pops from both ends.,"python,queue,collections",Medium,150
+How to handle file operations in Python?,Use open() to read and write files.,"python,file",Easy,160
+How to implement a linked list in Python?,Define a Node class and a LinkedList class.,"python,linkedlist",Hard,140
+How to use the itertools module in Python?,itertools provides functions for efficient looping.,"python,itertools",Medium,120
+How to handle dates and times in Python?,Use the datetime module: import datetime,"python,datetime",Easy,170
+How to connect to an SQLite database in Python?,Use the sqlite3 module: import sqlite3,"python,sqlite,database",Medium,180
+How to send an HTTP request in Python?,Use the requests library: import requests,"python,requests,http",Easy,190
+How to create a class in Python?,Use the class keyword to define a class.,"python,class",Easy,110
+How to use the logging module in Python?,Use logging.basicConfig() to configure the logging module.,"python,logging",Medium,140

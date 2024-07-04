@@ -1,0 +1,11 @@
+.dockerignore
+.env
+__pycache__
+.gitiginore
+*.pyc
+*.pyo
+.Python
+env
+pip-log.txt
+pip-delete-this-directory.txt
+.git
