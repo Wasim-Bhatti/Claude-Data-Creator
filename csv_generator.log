@@ -1,0 +1,12 @@
+2024-07-06 21:25:09,690 - INFO - No config file found. Starting with empty fields.
+2024-07-06 21:25:47,925 - INFO - API key set successfully
+2024-07-06 21:25:56,259 - INFO - Successfully read CSV file: C:/Users/wasim/OneDrive/Desktop/Docker/input_test_two.csv
+2024-07-06 21:26:02,805 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-07-06 21:26:02,807 - INFO - Successfully completed analysis
+2024-07-06 21:26:02,807 - INFO - Successfully saved data to CSV file: C:/Users/wasim/OneDrive/Desktop/Docker\new_dataset.csv
+2024-07-06 21:26:20,595 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-07-06 21:26:20,599 - INFO - Successfully generated 30 rows of data
+2024-07-06 21:26:20,600 - INFO - Successfully saved data to CSV file: C:/Users/wasim/OneDrive/Desktop/Docker\new_dataset.csv
+2024-07-06 21:26:38,551 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-07-06 21:26:38,551 - INFO - Successfully generated 30 rows of data
+2024-07-06 21:26:38,552 - INFO - Successfully saved data to CSV file: C:/Users/wasim/OneDrive/Desktop/Docker\new_dataset.csv
