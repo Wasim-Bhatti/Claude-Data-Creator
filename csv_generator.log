@@ -1,12 +1,29 @@
-2024-07-06 21:25:09,690 - INFO - No config file found. Starting with empty fields.
-2024-07-06 21:25:47,925 - INFO - API key set successfully
-2024-07-06 21:25:56,259 - INFO - Successfully read CSV file: C:/Users/wasim/OneDrive/Desktop/Docker/input_test_two.csv
-2024-07-06 21:26:02,805 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2024-07-06 21:26:02,807 - INFO - Successfully completed analysis
-2024-07-06 21:26:02,807 - INFO - Successfully saved data to CSV file: C:/Users/wasim/OneDrive/Desktop/Docker\new_dataset.csv
-2024-07-06 21:26:20,595 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2024-07-06 21:26:20,599 - INFO - Successfully generated 30 rows of data
-2024-07-06 21:26:20,600 - INFO - Successfully saved data to CSV file: C:/Users/wasim/OneDrive/Desktop/Docker\new_dataset.csv
-2024-07-06 21:26:38,551 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2024-07-06 21:26:38,551 - INFO - Successfully generated 30 rows of data
-2024-07-06 21:26:38,552 - INFO - Successfully saved data to CSV file: C:/Users/wasim/OneDrive/Desktop/Docker\new_dataset.csv
+2024-07-06 22:17:40,187 - INFO - API key set successfully
+2024-07-06 22:17:40,188 - INFO - API Key saved successfully!
+2024-07-06 22:21:34,703 - INFO - API key set successfully
+2024-07-06 22:21:34,705 - INFO - API Key saved successfully!
+2024-07-06 22:24:09,960 - INFO - Successfully read CSV file: C:/Users/wasim/OneDrive/Desktop/Docker/input_test_two.csv
+2024-07-06 22:24:09,962 - ERROR - Anthropic API key not set
+2024-07-06 22:24:09,962 - ERROR - Unexpected error in analyzer_agent: Anthropic API key not set. Please set it using set_api_key() function.
+2024-07-06 22:24:09,962 - ERROR - Error in generate_csv: Anthropic API key not set. Please set it using set_api_key() function.
+2024-07-06 22:24:29,000 - INFO - API key set successfully
+2024-07-06 22:24:29,001 - INFO - API Key saved successfully!
+2024-07-06 22:24:37,126 - INFO - Successfully read CSV file: C:/Users/wasim/OneDrive/Desktop/Docker/input_test_two.csv
+2024-07-06 22:24:43,636 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-07-06 22:24:43,638 - INFO - Successfully completed analysis
+2024-07-06 22:24:43,639 - INFO - Successfully saved data to CSV file: C:/Users/wasim/OneDrive/Desktop/Docker\new_dataset.csv
+2024-07-06 22:25:00,007 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-07-06 22:25:00,009 - INFO - Successfully generated 30 rows of data
+2024-07-06 22:25:00,014 - INFO - Successfully saved data to CSV file: C:/Users/wasim/OneDrive/Desktop/Docker\new_dataset.csv
+2024-07-07 00:17:04,882 - INFO - API key set successfully
+2024-07-07 00:17:04,883 - INFO - API Key saved successfully!
+2024-07-07 00:17:13,650 - INFO - Successfully read CSV file: C:/Users/wasim/OneDrive/Desktop/Docker/input_test_two.csv
+2024-07-07 00:17:20,586 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-07-07 00:17:20,588 - INFO - Successfully completed analysis
+2024-07-07 00:17:20,588 - INFO - Successfully saved data to CSV file: C:/Users/wasim/OneDrive/Desktop/Docker\new_dataset.csv
+2024-07-07 00:17:37,012 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-07-07 00:17:37,013 - INFO - Successfully generated 30 rows of data
+2024-07-07 00:17:37,013 - INFO - Successfully saved data to CSV file: C:/Users/wasim/OneDrive/Desktop/Docker\new_dataset.csv
+2024-07-07 00:17:48,012 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-07-07 00:17:48,013 - INFO - Successfully generated 20 rows of data
+2024-07-07 00:17:48,013 - INFO - Successfully saved data to CSV file: C:/Users/wasim/OneDrive/Desktop/Docker\new_dataset.csv
